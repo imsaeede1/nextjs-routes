@@ -7,11 +7,6 @@ const roboto = LocalFonts({
       style: "normal",
     },
     {
-      path: "../public/fonts/roboto/Roboto-Black.ttf",
-      weight: "400",
-      style: "normal",
-    },
-    {
       path: "../public/fonts/roboto/Roboto-Medium.ttf",
       weight: "500",
       style: "normal",
